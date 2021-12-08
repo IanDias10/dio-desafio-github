@@ -3,7 +3,7 @@ Alguns comandos do Git:
 _ git clone - Serve para clonar o seu projeto do repositório para sua máquina.
 _ cd + nome da pasta - Serve para entrar na pasta pelo Git.
 _ git status - E usado para ver se tem algo para adicionar no repositório.
-_ git add. - Serve para adicionar pasta ou arquivos para fase de commit.
+_ git add . - Serve para adicionar pasta ou arquivos para fase de commit.
 _ git commit -m (Esse -m serme para adicionar um comentario) - Serve para preparar
  a pasta e os arquivos para envia-los para o repositório.
 _ git push origin mais -Serve para enviar todos os commits para o repositório
